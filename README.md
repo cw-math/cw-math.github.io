@@ -26,7 +26,7 @@
 ```
 ![eratosthenes](https://user-images.githubusercontent.com/89570304/130923855-1f68fc40-74b6-4fc7-a3f8-d4a0ff778e56.png)
 
-### p5.js 프로그램 구현 방식 설명
+### p5.js 프로그램 설명
 ```
 예를 들어 2~100까지의 자연수를 나타내는 배열 n을 일단 모두 true 로 초기화 한다.
 
