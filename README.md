@@ -1,9 +1,9 @@
-# 채움 중학 수학 Github (cw-math.github.io)
+# 중학 수학 프로젝트 Github (cw-math.github.io)
 
-## Prime Number 
+## 소수(Prime Number)
 - [에라토스테네스의 체로 소수 찾기: Find Prime Numbers using Eratosthenes' sieve](https://cw-math.github.io/PrimeNumber/)
 
-### 소수
+### 소수(Prime Number) 에 대해
  자연수 중에서 다른 자연수를 곱해서 만들수 있는 수들을 "합성수(composite number/compound number)"라고 부른다.
  - 6 = 2x3 = 1x6
  - 12 = 2x2x3 = 2x6 = 4x3 = 1x12
@@ -16,7 +16,7 @@
  이렇게 "약수가 1과 자신뿐인 수로서 1이 아닌 수" 들을 가리켜 수학에서는 소수(Prime Number)라고 부른다.
       
 
-### 에라토스테네스의 체
+### [에라토스테네스의 체(Eratosthenes' sieve) 로 소수 찾기](https://cw-math.github.io/PrimeNumber/) 
 ```
 
 소수는 모든 자연수의 배수를 차례로 제거함으로써 찾아낼 수 있다. 
